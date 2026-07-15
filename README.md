@@ -1,4 +1,4 @@
-# CodeAlpha Data Analytics Internship - Project 2: Data Visualization
+# Data Visualization
 
 This repository contains the complete **Data Visualization & Analytics** project developed for the CodeAlpha Data Analytics Internship. 
 
